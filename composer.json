@@ -1,0 +1,21 @@
+{
+    "name": "sever/movie_site_plugin",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Sever\\MovieSitePlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maruf",
+            "email": "severusmaruf740@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {"Inc\\": "./Inc"}
+     }
+}
